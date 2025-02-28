@@ -1,0 +1,4 @@
+selenium
+webdriver_manager
+python-telegram-bot==20.0
+faker
